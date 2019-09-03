@@ -13,17 +13,12 @@
 
 ## 设置图片宽度和高度
 
-### 只设置宽度 hegiht=auto 省略掉
 
-<img src="https://raw.githubusercontent.com/cvster/pic/master/img/yapeixiaoansu.jpg" width="200" align=center />
 
 ### 只设置宽度 hegiht=auto 省略掉
 
 <img src="https://raw.githubusercontent.com/cvster/pic/master/img/yapeixiaoansu.jpg" width="200" align=center />
 
-</br>
-</br>
-</br>
 </br>
 </br>
 
